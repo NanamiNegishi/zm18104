@@ -1,4 +1,4 @@
-function sayhello() {alert('Hello, Function!');}
+function sayhello61() {alert('Hello, Function!');}
 var who = 'world';
 function sayhello() {alert('Hello, ' + who + '!');}
 function taro() {who = '太郎';}
