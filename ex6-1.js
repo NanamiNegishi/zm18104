@@ -1,6 +1,5 @@
 function sayhello61() {alert('Hello, Function!');}
-var who = 'world';
-function sayhello() {alert('Hello, ' + who + '!');}
-function taro() {who = '太郎';}
-function hanako() {who = '花子';}
-
+var who61 = 'world';
+function sayhello61() {alert('Hello, ' + who61 + '!');}
+function taro61() {who61 = '太郎';}
+function hanako61() {who61 = '花子';}
